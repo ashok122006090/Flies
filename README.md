@@ -8,3 +8,11 @@ red
 brown
 yellow
 violate
+........
+apple
+grapes
+mango
+banana
+strawberry
+jack fruit
+
